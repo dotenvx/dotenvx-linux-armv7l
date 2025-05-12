@@ -1,10 +1,10 @@
 {
-  "name": "@dotenvx/dotenvx-linux-armv7",
+  "name": "@dotenvx/dotenvx-linux-armv7l",
   "version": "0.0.1",
-  "description": "dotenvx-linux-armv7 binary",
+  "description": "dotenvx-linux-armv7l binary",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotenvx/dotenvx-linux-armv7.git"
+    "url": "git+https://github.com/dotenvx/dotenvx-linux-armv7l.git"
   },
   "files": [
     "dotenvx",
